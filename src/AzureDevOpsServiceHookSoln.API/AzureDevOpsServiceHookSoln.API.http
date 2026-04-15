@@ -1,0 +1,6 @@
+@AzureDevOpsServiceHookSoln.API_HostAddress = http://localhost:5067
+
+GET {{AzureDevOpsServiceHookSoln.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
